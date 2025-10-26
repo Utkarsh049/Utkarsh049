@@ -1,86 +1,93 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">💡 AI Developer | 🧠 Machine Learning Enthusiast | 💻 Full Stack Innovator</h3>
+<!-- Header -->
+<h1 align="center">Hey 👋, I'm Utkarsh</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 AI Explorer | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Utkarsh" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Apps;Passionate+About+Agents%2C+RAG%2C+and+LLMs;Learning+Something+New+Everyday+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Building+Ideas+into+Reality;Full+Stack+%2B+AI+Developer;Designing+Intuitive+Experiences;Learning+and+Innovating+Daily+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building **AI Companion & Intelligent Agents**
-- 🧩 Exploring **LLMs, RAG pipelines, and Model Deployment**
-- 🌱 Learning **MLOps | Vector Databases | AI Infrastructure**
-- 💬 Ask me about **AI Model Training, RAG, Full Stack, or Cloud**
-- ⚡ Fun fact: *I turn caffeine into clean code ☕ + creativity 💡*
+- 💡 Passionate about crafting **intelligent, user-centered applications**
+- ⚙️ Currently exploring **AI tools**, **Next.js**, and **modern backend systems**
+- 🧩 I enjoy blending **logic + design** to build elegant, scalable software
+- 🕹️ Always open to **collaboration and learning**
+- ⚡ Fun Fact: *I debug faster when it’s past midnight 🌙*
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-#### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+#### 🧰 Core Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 💻 Web / App
+#### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-#### ☁️ DevOps / Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🧩 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
-| 🧩 Project | 🚀 Description | 🔗 Link |
+### 🚀 Featured Projects
+
+| 🌟 Project | 🧩 Description | 🔗 Link |
 |-------------|----------------|--------|
-| 🤖 **AI Companion** | Personal AI assistant with memory, emotion detection, and LLM integration | [View Repo](https://github.com/Utkarsh/ai-companion) |
-| 🧠 **RAG Chatbot** | Chatbot using retrieval-augmented generation with LangChain + Pinecone | [View Repo](#) |
-| ⚙️ **MLOps Pipeline** | End-to-end model training, tracking, and deployment with MLflow + Docker | [View Repo](#) |
-| 🌐 **NEXA Platform** | Realtime full-stack web app with sockets + AI modules | [View Repo](#) |
+| 🧠 **Nexa** | Full-stack issue tracker built using Next.js, Prisma, and MySQL with JWT-based authentication. | [View Repo](#) |
+| 🐍 **PyText** | Custom text editor with dark/light themes, syntax highlighting, and live font management. | [View Repo](#) |
+| 🕹️ **Tic Tac Toe** | Interactive web-based Tic Tac Toe built with React & clean modular logic. | [View Repo](#) |
+| 🚗 **ParkEasy** | C++ parking management system applying OOP principles and slot tracking. | [View Repo](#) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Highlights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarsh049&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh049&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarsh&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh049&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧩 Fun Extras
+### 🧠 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utkarsh&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh049&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+---
+
+### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarsh049" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:utkarsh@example.com">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:utkarshpcs26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/utkarsh049" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Keep building. Keep learning. Keep evolving.” ✨</h3>
+<h3 align="center">✨ “Code. Design. Build. Repeat.” ✨</h3>
