@@ -75,9 +75,16 @@
 
 ---
 
+### 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/utkarsh049/utkarsh049/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh049" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarsh49" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:utkarshpcs26@gmail.com">
