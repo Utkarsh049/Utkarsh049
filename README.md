@@ -1,100 +1,76 @@
-<!-- Header -->
-<h1 align="center">Hey 👋, I'm Utkarsh</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI Explorer | 🎨 UI/UX Enthusiast</h3>
+<div align="center">
+<img width="100%" height="0" src="">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Building+Ideas+into+Reality;Full+Stack+%2B+AI+Developer;Designing+Intuitive+Experiences;Learning+and+Innovating+Daily+🚀" alt="Typing SVG" />
-</p>
+# Hi, I'm Utkarsh 👋
 
----
+**Backend & Systems Engineer** — I build the infrastructure other software runs on: gateways, sandboxes, and the plumbing in between.
 
-### 🧠 About Me
-- 💡 Passionate about crafting **intelligent, user-centered applications**
-- ⚙️ Currently exploring **AI tools**, **Next.js**, and **modern backend systems**
-- 🧩 I enjoy blending **logic + design** to build elegant, scalable software
-- 🕹️ Always open to **collaboration and learning**
-- ⚡ Fun Fact: *I debug faster when it’s past midnight 🌙*
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=go,rust,ts,py,cpp,java,docker,postgres,mongodb,redis,git&theme=dark" alt="tech stack" />
 
-### 🛠️ Tech Arsenal
+</div>
 
-#### 🧰 Core Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
-#### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+## What I've been building
 
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-#### 🧩 Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### [🗿 Gargoyle](https://github.com/utkarsh049)
+Self-hostable API gateway
 
----
+Redis-backed rate limiting + an ONNX abuse classifier running in-process. Cut false positives from 95% → 0% vs. static rules while catching every low-and-slow attack. Single binary, one Docker Compose command to deploy.
 
-### 🚀 Featured Projects
+`Go` `Redis` `PostgreSQL` `Prometheus`
 
-| 🌟 Project | 🧩 Description | 🔗 Link |
-|-------------|----------------|--------|
-| 🧠 **Nexa** | Full-stack issue tracker built using Next.js, Prisma, and MySQL with JWT-based authentication. | [View Repo](#) |
-| 🐍 **PyText** | Custom text editor with dark/light themes, syntax highlighting, and live font management. | [View Repo](#) |
-| 🕹️ **Tic Tac Toe** | Interactive web-based Tic Tac Toe built with React & clean modular logic. | [View Repo](#) |
-| 🚗 **ParkEasy** | C++ parking management system applying OOP principles and slot tracking. | [View Repo](#) |
+</td>
+<td width="33%" valign="top">
 
----
+### [🦦 Otter](https://github.com/utkarsh049)
+Untrusted code sandbox
 
-### 📊 GitHub Highlights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarsh049&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh049&theme=radical" />
-</p>
+Five-layer isolation (rlimits, seccomp-bpf, bubblewrap) for running arbitrary code without kernel-level sandboxing. Tokio-powered job queue with a custom autoscaler that reacts to queue depth under load.
 
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh049&theme=tokyonight" />
-</p>
+`Rust` `Tokio` `Docker` `Grafana`
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🧠 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh049&theme=react-dark&hide_border=true&area=true" />
-</p>
+### [⚡ Boltt](https://github.com/utkarsh049)
+Local-first HTTP client
 
----
+21MB binary, sub-100MB idle RAM. Fully offline, git-trackable API collections — no account, no cloud, no sync server required. Built on Tauri with an async Reqwest engine.
 
-### 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/utkarsh049/utkarsh049/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+`Tauri` `React` `TypeScript`
 
----
+</td>
+</tr>
+</table>
 
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh49" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:utkarshpcs26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/utkarsh049" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br>
 
----
+## Elsewhere in the stack
 
-<h3 align="center">✨ “Code. Design. Build. Repeat.” ✨</h3>
+Python · C++ · Java · SQL · Next.js · Node.js · Nest.js · MySQL · Nginx · AWS (EC2 / S3) · scikit-learn · Pandas
+
+<br>
+
+## Currently
+
+🎓 Final-year CS student · 🔍 Open to backend & systems engineering roles · 🛠️ Always mid-way through breaking something on purpose to see how it fails
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/utkarsh49">LinkedIn</a> · <a href="mailto:utkarshpcs26@gmail.com">Email</a> · <a href="https://github.com/utkarsh049">GitHub</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=utkarsh049&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true" width="48%" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh049&hide_border=true&theme=github-dark-blue" width="48%" alt="streak" />
+
+</div>
