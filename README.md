@@ -19,7 +19,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### [🗿 Gargoyle](https://github.com/utkarsh049)
+### [🗿 Gargoyle](https://github.com/utkarsh049/gargoyle)
 Self-hostable API gateway
 
 Redis-backed rate limiting + an ONNX abuse classifier running in-process. Cut false positives from 95% → 0% vs. static rules while catching every low-and-slow attack. Single binary, one Docker Compose command to deploy.
@@ -29,7 +29,7 @@ Redis-backed rate limiting + an ONNX abuse classifier running in-process. Cut fa
 </td>
 <td width="33%" valign="top">
 
-### [🦦 Otter](https://github.com/utkarsh049)
+### [🦦 Otter](https://github.com/utkarsh049/otter)
 Untrusted code sandbox
 
 Five-layer isolation (rlimits, seccomp-bpf, bubblewrap) for running arbitrary code without kernel-level sandboxing. Tokio-powered job queue with a custom autoscaler that reacts to queue depth under load.
@@ -39,7 +39,7 @@ Five-layer isolation (rlimits, seccomp-bpf, bubblewrap) for running arbitrary co
 </td>
 <td width="33%" valign="top">
 
-### [⚡ Boltt](https://github.com/utkarsh049)
+### [⚡ Boltt](https://github.com/utkarsh049/boltt)
 Local-first HTTP client
 
 21MB binary, sub-100MB idle RAM. Fully offline, git-trackable API collections — no account, no cloud, no sync server required. Built on Tauri with an async Reqwest engine.
@@ -70,7 +70,7 @@ Python · C++ · Java · SQL · Next.js · Node.js · Nest.js · MySQL · Nginx 
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=utkarsh049&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true" width="48%" alt="stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=utkarsh049&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true" width="48%" alt="stats" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh049&hide_border=true&theme=github-dark-blue" width="48%" alt="streak" />
 
 </div>
